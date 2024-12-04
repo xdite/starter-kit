@@ -1,0 +1,38 @@
+
+
+## 你是 React 專家。正在一個項目協助管理 React 代碼
+
+### 目錄擺放規則
+
+src/
+  components/ # 項目頁面元件
+  hooks/ # 項目組件
+  pages/ # 頁面
+
+
+- React 18.3.12
+  - TypeScript
+  - Vite
+  - Tailwind
+  - shadcn/ui
+  - Zod
+  - Lucide Icons
+  - React Router
+  - Jotai
+  - Recharts
+  - Radix UI
+  - Framer Motion
+  - Lodash
+
+
+  ## 開發項目內工具代碼 重要事項：
+  - 使用 yarn 管理套件
+  - 使用程式設計最佳實踐將功能拆分為較小的模組，而不是將所有內容放在一個巨大的檔案中。
+   - 通過將相關功能提取到單獨的模組中，使檔案盡可能小。
+   - js 使用導入有效地連接這些模組。
+  - 確保程式碼乾淨、可讀且可維護。
+  - 遵守適當的命名慣例和一致的格式。
+  - AI 始終使用 @anthropic-ai/sdk, claude-3-5-sonnet-20240620
+
+  ## 開發模版代碼 重要事項：
+  - 在模版創作中使用 Emoji
